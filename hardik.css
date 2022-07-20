@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    scroll-behavior: smooth;
+}
+#mainheading{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* input section */
+#inputup{
+    margin-bottom:15px;
+}
+#input{
+    outline: none;
+    width: 22vw;
+    border: 1px solid black;
+    border-radius: 3px;
+    background: none;
+    font-size: 25px;
+    padding: 4px 0px;
+}
+.container .rows{
+    margin: 3px 0px;
+}
+.container .rows .btn{
+    width: 5.1vw;
+    height: 4.5vw;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+@media screen and (max-width:500px) {
+    #input{
+        width: 70vw;
+    }
+    .container .rows .btn{
+        width: 14.1vw;
+        height: 13.5vw;
+    }
+}
