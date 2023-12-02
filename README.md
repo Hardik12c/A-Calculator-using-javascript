@@ -2,7 +2,6 @@
 
 <p align="center"><img src="https://socialify.git.ci/Hardik12c/A-Calculator-using-javascript/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="A-Calculator-using-javascript" width="640" height="320" /></p>
 
-<p id="description">PromptCity is an open source ai powering tool for modern world to discover create and share creative prompts</p>
 
 <h2>🚀 Demo</h2>
 https://hardik12c.github.io/A-Calculator-using-javascript/
